@@ -1,3 +1,5 @@
 Archivo inicial
 hola
-este es una cabio para la rama desarrollo
+este es una cabio para la rama desarrollo conflicto
+cambio nuevo
+me aburro
